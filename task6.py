@@ -5,7 +5,7 @@ if l == r:
     print('Yes')
 else:
     print('NO')
-# или
+
 s = input('Введите 6-значный номер билета: ')
 if len(s) != 6:
     print(f'Число {s} не 6-ти значное')
